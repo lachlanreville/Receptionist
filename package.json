@@ -1,0 +1,20 @@
+{
+  "name": "application-bot",
+  "version": "1.0.0",
+  "description": "An application bot made for use with Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "kurasuta": "^2.2.0",
+    "moment": "^2.27.0",
+    "mysql": "^2.18.1",
+    "mysql-await": "^2.1.6",
+    "randomstring": "^1.1.5"
+  }
+}
